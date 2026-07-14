@@ -12,7 +12,6 @@ This project was completed as part of the **VortexTech AI & ML Internship – We
 * Task: Binary Classification (Spam = 1, Ham = 0)
 
 ## Features
-
 * Loaded and preprocessed the dataset
 * Encoded the target variable
 * Split the data into training and testing sets
